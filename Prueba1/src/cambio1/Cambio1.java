@@ -3,7 +3,8 @@ package cambio1;
 public class Cambio1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hola en cambio1");
+		System.out.println("Hola de nuevo en cambio1");
 
 	}
 
